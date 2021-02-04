@@ -1,0 +1,10 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+/.idea/
+/.vscode/
+/__pycache__/
+/build/
+/dist/
+*.zip
+*.rar
