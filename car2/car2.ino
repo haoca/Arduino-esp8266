@@ -279,5 +279,8 @@ void CS(int NUM) {
  
 void loop() {
   server.handleClient();
+  if(digitalRead(D3)==0){
+    
+  }
   
 }

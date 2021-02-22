@@ -256,7 +256,7 @@ void wifi_con(){
   Serial.println(WiFi.SSID());              // 连接的WiFI名称
   Serial.print("IP address:\t");            // 以及
   Serial.println(WiFi.localIP());           // NodeMCU的IP地址
-  Serial.print("提示：温湿度传感器接D3 // 舵机接D5 // 引脚Echo 连接 D3 // 引脚Tring 连接 D2 \n");
+  Serial.print("提示：温湿度传感器接D3 // 舵机接D5 // 引脚Tring 连接 D6 // 引脚Echo 连接 D7 \n");
 }
 
 
